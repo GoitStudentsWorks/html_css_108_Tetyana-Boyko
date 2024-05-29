@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-cream-team-1/",
+    "build": "vite build --base=/html_css_108_Tetyana-Boyko/",
     "preview": "vite preview"
   },
   "devDependencies": {
